@@ -98,7 +98,7 @@ nav ul li a {
 }
 
 .home-right img {
-    width: 400px;
+    width: 350px;
     border-radius: 0.5rem;
 }
 
@@ -115,12 +115,12 @@ section {
 /* About Section  */
 #about {
     background-color: rgb(209, 207, 207);
-    padding: 6rem 0;
+    padding: 1rem 0;
 }
 
 .section-title-about {
     text-align: center;
-    margin: 1rem 0 4rem;
+    margin: 1rem 0 1rem;
 }
 
 /* Layout */
@@ -163,7 +163,7 @@ section {
 
 .section-titles-skills {
     text-align: center;
-    margin: 1rem 0 4rem;
+    margin: 1rem 0 1.5rem;
 }
 
 .skills-grid {
@@ -221,7 +221,9 @@ section {
 /* Contact  */
 
 #contact {
-    padding: 6rem;
+    padding: 2rem;
+    background-color: rgb(209, 207, 207);
+    text-align: center;
 }
 
 .contact-form div {
@@ -270,8 +272,8 @@ section {
 /* Footer  */
 footer {
     margin-bottom: 0;
-    padding: 4rem 0;
-    background: rgb(209, 207, 207);
+    padding: 2rem 0;
+    background: rgb(89, 89, 89);
     text-align: center;
 }
 
